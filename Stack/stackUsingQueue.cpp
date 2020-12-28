@@ -36,7 +36,6 @@ public:
         if (!Q1.empty())
             return Q1.front();
 
-
         return -1;
     }
 };
