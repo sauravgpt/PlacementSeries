@@ -1,3 +1,5 @@
+// Problem link: https://www.geeksforgeeks.org/the-stock-span-problem/
+
 #include<bits/stdc++.h>
 using namespace std;
 

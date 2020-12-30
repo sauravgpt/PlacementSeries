@@ -1,3 +1,5 @@
+// Problem link: https://www.geeksforgeeks.org/reversing-first-k-elements-queue/
+
 #include<bits/stdc++.h>
 using namespace std;
 
