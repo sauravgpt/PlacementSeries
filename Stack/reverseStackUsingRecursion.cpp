@@ -1,5 +1,10 @@
 // Problem: https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/
 
+// Note: Without extra space even without using functional stack can be 
+// implemented if stack if implemented through linked list, just we need to
+// reverse the linked list.
+ 
+
 #include<bits/stdc++.h>
 using namespace std;
 
